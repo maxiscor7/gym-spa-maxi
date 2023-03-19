@@ -7,6 +7,6 @@
 <div style="display: flex">
 <h4>Deploy:</h4>
 <a href="https://gym-spa-maxi.vercel.app/" target="_blanck">
-  <h4>🌍</h4>
+  🌍
 </a>
 </div>
