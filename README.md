@@ -4,9 +4,7 @@
 
 ![1](https://user-images.githubusercontent.com/99894721/226172064-e37295c5-dfdd-4f05-9bbe-4cad2e8661c4.png)
 
-<div style="display: flex">
-<h4>Deploy:</h4>
-<a href="https://gym-spa-maxi.vercel.app/" target="_blanck">
-  🌍
-</a>
+<div style="display: flex" >
+  <h4>Deploy:</h4>
+  <a href="https://gym-spa-maxi.vercel.app/" target="_blank">🌍</a>
 </div>
